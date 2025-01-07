@@ -7,26 +7,17 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# NOT MINE
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+_This isn't my code, send a email to jonathanliu2012@icloud.com if this is your code for me to write credits_
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
 
-## Step 1: Enable GitHub Pages
+## Step 1: Open Console
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
+Open console, then copy and paste the code. You may have to type 'allow pasting' before you can paste. Click enter. NOTE. IT IS NOT MY FAULT IF PEOPLE DON'T USE THIS APPROPIATELY. IT IS NOT MY FAULT IF YOU GET IN TROUBLE OR GET BANNED.
 ### :keyboard: Activity: Enable GitHub Pages
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
